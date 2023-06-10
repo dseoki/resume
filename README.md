@@ -5,7 +5,6 @@
 * 소재지 : 대구
 * 교육과정 : JAVA 정보처리산업기사 과정평가형
 * 교육기간 : 2017.05 ~ 2017.10
-* 교육성적 : 전체 30명 / 4등
 * 교육내용 :
 	* HTML, CSS, JavaScript, JAVA, MySql, Oracle, JSP, MyBatis, git
 	* java, mysql을 이용한 웹 게시판 CRUD
@@ -30,8 +29,7 @@
 	* 한국원자력환경공단 홈페이지 유지보수
 
 ## 보유기술
-> JAVA, MySQL, Oracle, MyBatis, maven, Linux, SpringBoot, gradle, JPA, MSA, K8S, GIT, REST ful
-
+> JAVA, MySQL, Oracle, MyBatis, maven, Linux, SpringBoot, gradle, JPA, MSA, K8S, GIT, REST FUL, HTML, CSS, JavaScript
 
 ## 주요 작업 연혁
 #### 캐플릭스
@@ -42,8 +40,8 @@
 * [ESG](https://esg.jejupass.com) 전체 개발 (script, BE 단독 개발)
 * 렌트카 빠른검색, 필터검색 리팩토링, 속도 개선
 * 숙박 태그 관리 개발 및 목록 연동
-* 카페패스 전체검색 수정 (사내 GIT 오류로 인한 히스토리 삭제됨)
-* 카페패스 IOS 내 주변 카페 찾기 오류 수정 (사내 GIT 오류로 인한 히스토리 삭제됨)
+* 카페패스 전체검색 수정
+* 카페패스 IOS 내 주변 카페 찾기 오류 수정
 
 #### 웨일소프트
 * [대구광역시 버스전용차로 단속조회 시스템 개발](https://buslane.daegu.go.kr:8443/cartax/index.do)
