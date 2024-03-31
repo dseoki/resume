@@ -31,16 +31,16 @@
 	* 한국원자력환경공단 홈페이지 유지보수
 
 ## 주요 보유기술
-> JAVA, MySQL, Oracle, MyBatis, maven, SpringBoot, gradle, JPA, MSA, GIT, REST FUL, JavaScript
+> JAVA, MySQL, Oracle, MyBatis, maven, SpringBoot, gradle, JPA, MSA, GIT, REST FUL, JavaScript, SpringSecurity, jwt
 ## 부가 보유기술
-> Linux, K8S, HTML5, CSS3, ES6, vue, react
+> Linux, K8S, HTML5, CSS3, ES6, vue, react, docker
 
 ## 주요 작업 연혁
 #### 캐플릭스
 * [제주패스](https://www.jejupass.com) 서비스
 * 렌터카 통합 API 개발
   - 사업비를 이용하여 다른 팀에서 개발을 하여 인계받은 서비스.
-  - 완성되어 있다고 했지만 검색조차 되지 않아 모든 정책을 다시 파악 후 가격 및 렌트카 이용 정책을 다시 취합 후 완정적인 서비스가 되도록 개선.
+  - 완성되어 있다고 했지만 검색조차 되지 않아 모든 정책을 다시 파악 후 가격 및 렌트카 이용 정책을 다시 취합 후 안정적인 서비스가 되도록 개선.
   - 
 * 렌트카 검색 속도 개선 12s -> 1s 이내
 * 필수 모듈 없이 사용하고 있어 직접 개발하여 적용
